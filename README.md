@@ -31,7 +31,7 @@ Ensure the following are installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/college-placement-prediction.git
+   git clone https://github.com/College-Placement-Prediction-Web-Application/college-placement-prediction.git
    ```
 
 2. Navigate to the project directory:
