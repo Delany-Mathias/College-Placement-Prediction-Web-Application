@@ -56,7 +56,7 @@ Ensure the following are installed on your system:
 ## How It Works
 
 1. The user inputs their details, such as:
-   - **Stream** (e.g., Electronics, Computer Science)
+   - **Stream** (e.g., Electronics, Computer Science etc)
    - **Gender**
    - **Number of Internships**
    - **CGPA** (Cumulative Grade Point Average)
